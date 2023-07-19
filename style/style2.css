@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.main:nth-child(n){
+    display: flex;
+    column-gap: 5rem;
+}
+
+.main{
+    justify-content: center;
+}
+
+.main-ul{
+    list-style-type: none   ;
+}
+
+.main-ul , li{
+    padding-bottom: 15px;
+}
+
+.main-ul-a{
+    text-decoration: none;
+    padding: 10px;
+}
+
+.p{
+    text-align: center;
+}
+

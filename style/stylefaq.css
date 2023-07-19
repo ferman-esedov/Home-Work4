@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #252b42;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+.header{
+    text-align: center;
+}
+
+.main{
+    margin-left: 3%;
+    display: flex;
+    column-gap: 10rem;
+    
+}
+
+.main-ul{
+    list-style-image: url(/img/right-arrow.png);
+}
+
+.footer-p{
+    text-align: center;
+}
